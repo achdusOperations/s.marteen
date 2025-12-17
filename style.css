@@ -10,3 +10,6 @@ html:has(meta[content*="Jewish sparks"]) .sPromo-wrap{
 html:has(meta[content*="Jewish sparks"]) .section_root div#ContentBody .content-area-parent{
     padding-bottom:50px !important;
 }
+html:has(meta[content*="Jewish sparks"]) .sPromo-wrap .caption{
+    bottom:-50px !important
+}
