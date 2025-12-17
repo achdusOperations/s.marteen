@@ -56,6 +56,8 @@ html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::after
         visibility: visible !important;
         position:absolute !important;
         top:26px !important;
+        left:0px !important;
+        width:max-content !important;
      
       }
       html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::after::after
