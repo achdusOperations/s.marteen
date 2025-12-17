@@ -38,3 +38,6 @@ html:has(meta[content*="Jewish sparks"]).message img{
     max-width:30% !important;
 }
 
+html:has(meta[content*="Jewish sparks"]) .large_banner{
+    border:none !important;
+}
