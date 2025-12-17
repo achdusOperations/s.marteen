@@ -21,6 +21,7 @@ html:has(meta[content*="Jewish sparks"]) .section_root div#ContentBody .content-
 
 html:has(meta[content*="Jewish sparks"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(2){
     background:#fff !important;
+    margin-top:-30px !important;
 }
 html:has(meta[content*="Jewish sparks"]) .sPromo-wrap .caption{
     bottom:-50px !important;
