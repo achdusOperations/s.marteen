@@ -1,0 +1,3 @@
+html:has(meta[content*="Jewish sparks"]) .sPromo-flex, html:has(meta[content*="Jewish sparks"]) .sPromo-flex{
+    flex:1 1 200px !important;
+}
