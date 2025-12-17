@@ -15,5 +15,6 @@ html:has(meta[content*="Jewish sparks"]) .sPromo-wrap .caption{
     bottom:-50px !important;
     overflow: revert !important;
     background:none !important;
+    white-space:normal !important;
 }
 
