@@ -16,6 +16,7 @@ html:has(meta[content*="Jewish sparks"]) .sPromo-wrap{
 
 html:has(meta[content*="Jewish sparks"]) .section_root div#ContentBody .content-area-parent{
     padding-bottom:50px !important;
+    background-image:url("https://jewishsxm.com/media/images/1348/CCxQ13485425.jpg");
 }
 html:has(meta[content*="Jewish sparks"]) .sPromo-wrap .caption{
     bottom:-50px !important;
