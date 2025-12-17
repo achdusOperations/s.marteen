@@ -4,9 +4,14 @@ html:has(meta[content*="Jewish sparks"]) .sPromo-flex{
     border:none !important;
     margin-bottom:100px !important;
 }
+html:has(meta[content*="Jewish sparks"]) .sPromo-flex img{
+    width:30% !important;
+}
 
 html:has(meta[content*="Jewish sparks"]) .sPromo-wrap{
     overflow: visible !important;
+    display:flex !important;
+    justify-content:center !important
 }
 
 html:has(meta[content*="Jewish sparks"]) .section_root div#ContentBody .content-area-parent{
