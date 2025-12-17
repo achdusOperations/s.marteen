@@ -48,3 +48,26 @@ html:has(meta[content*="Jewish sparks"]).message img{
 html:has(meta[content*="Jewish sparks"]) .large_banner{
     border:none !important;
 }
+
+/*change footer message*/    
+html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::after
+{
+        content:" Jewish Sparks Tour – Discover the Islands’ Hidden Jewish Sparks" !important;
+        visibility: visible !important;
+        position:absolute !important;
+        top:26px !important;
+        left:0 !important;
+      }
+      html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::after::after
+      {
+        content:" Chabad of S. Maarten +14754149688 tours@jewishsparks.com" !important;
+        visibility: visible !important;
+        position:absolute !important;
+        top:26px !important;
+        left:0 !important;
+      }
+      html:has(meta[content*="Jewish sparks"])   .poweredby.large_bottom_margin
+{
+        visibility:hidden !important;
+        position:relative !important;
+      }
