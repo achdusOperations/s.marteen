@@ -48,6 +48,10 @@ html:has(meta[content*="Jewish Sparks"]) #ContentBody > div.content-area-parent.
 html:has(meta[content*="Jewish Sparks"]).custom_message .message{
     background: #fff !important;
 }
+/*button smaller*/
+html:has(meta[content*="Jewish Sparks"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(3) > div.message > p > img{
+    width:50% !important;
+}
 html:has(meta[content*="Jewish Sparks"]) .sPromo-wrap .caption{
     bottom:-50px !important;
     overflow: revert !important;
