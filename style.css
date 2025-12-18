@@ -1,26 +1,26 @@
 /*hero image*/
 
-html:has(meta[content*="Jewish sparks"]).chabad_header img{
+html:has(meta[content*="Jewish Sparks"]).chabad_header img{
     object-fit:initial !important;
 }
 
-html:has(meta[content*="Jewish sparks"]) .sPromo-flex{
+html:has(meta[content*="Jewish Sparks"]) .sPromo-flex{
     flex:1 1 230px !important;
     max-width:230px !important;
     border:none !important;
     margin-bottom:100px !important;
 }
-html:has(meta[content*="Jewish sparks"]) .sPromo-flex img{
+html:has(meta[content*="Jewish Sparks"]) .sPromo-flex img{
     width:30% !important;
 }
 
-html:has(meta[content*="Jewish sparks"]) .sPromo-wrap{
+html:has(meta[content*="Jewish Sparks"]) .sPromo-wrap{
     overflow: visible !important;
     display:flex !important;
     justify-content:center !important;
 }
 
-html:has(meta[content*="Jewish sparks"]) .section_root div#ContentBody .content-area-parent{
+html:has(meta[content*="Jewish Sparks"]) .section_root div#ContentBody .content-area-parent{
     padding-bottom:50px !important;
     background-image:url("https://jewishsxm.com/media/images/1348/CCxQ13485425.jpg");
     border-radius:70px !important;
@@ -30,18 +30,18 @@ html:has(meta[content*="Jewish sparks"]) #ContentBody > div.content-area-parent.
     background:#fff !important;
     margin-top:-30px !important;
 }
-html:has(meta[content*="Jewish sparks"]) .sPromo-wrap .caption{
+html:has(meta[content*="Jewish Sparks"]) .sPromo-wrap .caption{
     bottom:-50px !important;
     overflow: revert !important;
     background:none !important;
     white-space:normal !important;
 }
 /*take away hover on mini promo*/
-html:has(meta[content*="Jewish sparks"]) .sPromo-wrap:hover img{
+html:has(meta[content*="Jewish Sparks"]) .sPromo-wrap:hover img{
     opacity:1 !important;
 }
 /*mini promo images smaller*/
-html:has(meta[content*="Jewish sparks"]).message img{
+html:has(meta[content*="Jewish Sparks"]).message img{
     max-width:30% !important;
 }
 /*remove a line*/
@@ -50,7 +50,7 @@ html:has(meta[content*="Jewish sparks"]) .large_banner{
 }
 
 /*change footer message*/    
-html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::before
+html:has(meta[content*="Jewish Sparks"]) .poweredby.large_bottom_margin::before
 {
         content:"Jewish Sparks Tour – Discover the Islands’ Hidden Jewish Sparks" !important;
         visibility: visible !important;
@@ -60,7 +60,7 @@ html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::before
         width:max-content !important;
 
       }
-      html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::after
+      html:has(meta[content*="Jewish Sparks"]) .poweredby.large_bottom_margin::after
       {
         content:"Chabad of S. Maarten +14754149688 tours@jewishsparks.com" !important;
         visibility: visible !important;
@@ -69,13 +69,13 @@ html:has(meta[content*="Jewish sparks"]) .poweredby.large_bottom_margin::before
         left:-40px !important;
         width:max-content !important;
       }
-      html:has(meta[content*="Jewish sparks"])   .poweredby.large_bottom_margin
+      html:has(meta[content*="Jewish Sparks"])   .poweredby.large_bottom_margin
 {
         visibility:hidden !important;
         position:relative !important;
       }
 
-      html:has(meta[content*="Jewish sparks"]) .footer{
+      html:has(meta[content*="Jewish Sparks"]) .footer{
         display:flex !important;
         justify-content: center !important;
       }
