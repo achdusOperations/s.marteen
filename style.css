@@ -50,6 +50,11 @@ html:has(meta[content*="Jewish Sparks"]) #ContentBody > div.content-area-parent.
 html:has(meta[content*="Jewish Sparks"]) .buttonbooktour img{
     width:50% !important;
 }
+@media screen and (max-width: 700px) {
+html:has(meta[content*="Jewish Sparks"]) .buttonbooktour img{
+    width:75% !important;
+}
+}
 html:has(meta[content*="Jewish Sparks"]) .sPromo-wrap .caption{
     bottom:-50px !important;
     overflow: revert !important;
