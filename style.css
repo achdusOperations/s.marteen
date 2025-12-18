@@ -1,7 +1,7 @@
 /*hero image mobile*/
 
    @media screen and (max-width: 700px) {
-    .chabad_header img {
+    html:has(meta[content*="Jewish Sparks"]).chabad_header img {
     background-image: 
    url("https://jewishsxm.com/media/images/1348/xmLJ13489345.jpg");
    background-size:100% 100%;
