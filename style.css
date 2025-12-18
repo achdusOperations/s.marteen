@@ -13,6 +13,11 @@ html:has(meta[content*="Jewish Sparks"]).chabad_header img{
     object-fit:initial !important;
 }
 
+/*remove navigation bar*/
+html:has(meta[content*="Jewish Sparks"]) div#chabad_head .chabad_navigator_bar{
+    display:none !important
+}
+
 html:has(meta[content*="Jewish Sparks"]) .sPromo-flex{
     flex:1 1 230px !important;
     max-width:230px !important;
