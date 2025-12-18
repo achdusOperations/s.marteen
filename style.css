@@ -107,12 +107,12 @@ html:has(meta[content*="Jewish Sparks"]) .poweredby.large_bottom_margin::before
 
 
       /*form header*/
-      html:has(meta[content*="Jewish-Sparks-Booking-Form"]).section_branch .chabad_header,html:has(meta[content*="Jewish-Sparks-Booking-Form"]) .section_branch .chabad_header img{
+      html:has(meta[content*="Jewish-Sparks-Booking-Form"]) .section_branch .chabad_header,html:has(meta[content*="Jewish-Sparks-Booking-Form"]) .section_branch .chabad_header img{
         height:450px !important;
       }
 
       @media screen and (max-width: 650px) {
-        html:has(meta[content*="Jewish-Sparks-Booking-Form"]).section_branch .chabad_header,html:has(meta[content*="Jewish-Sparks-Booking-Form"]) .section_branch .chabad_header img{
+        html:has(meta[content*="Jewish-Sparks-Booking-Form"]) .section_branch .chabad_header,html:has(meta[content*="Jewish-Sparks-Booking-Form"]) .section_branch .chabad_header img{
 height:250px !important;
         }
     }
