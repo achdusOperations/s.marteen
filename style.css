@@ -45,6 +45,9 @@ html:has(meta[content*="Jewish Sparks"]) #ContentBody > div.content-area-parent.
     background:#fff !important;
     margin-top:-30px !important;
 }
+html:has(meta[content*="Jewish Sparks"])#ContentBody > div.content-area-parent.no_margin > div:nth-child(3){
+    background: #fff !important;
+}
 html:has(meta[content*="Jewish Sparks"]) .sPromo-wrap .caption{
     bottom:-50px !important;
     overflow: revert !important;
