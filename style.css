@@ -73,6 +73,9 @@ html:has(meta[content*="Jewish Sparks"]) .large_banner{
 html:has(meta[content*="Jewish Sparks"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(3){
     margin-bottom:-15px !important;
 }
+#ContentBody > div.content-area-parent.no_margin > div:nth-child(3) > div.message{
+    margin-top:-100px !important;
+}
 
 /*change footer message*/    
 html:has(meta[content*="Jewish Sparks"]) .poweredby.large_bottom_margin::before
